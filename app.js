@@ -6,3 +6,4 @@ incr++;
 decr++;
 console.log(incr);
 console.log(decr);
+console.log(123);
